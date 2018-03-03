@@ -13,3 +13,7 @@ A fork is like a clone that happens on GitHub's servers -
 you copy the repository to your profile, but not to your local computer. Use this to make a copy of an existing repository that you want to make your own changes to, or use for collaboration with others.
 A clone copies a repository and can be from GitHub to your local computer or just a copy from local to local. You can use this to work on an existing repository or make your own thing.
 Branches happen within a repository - you can make experimental features, fix bugs, make alternative versions of something, etc.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Lets you compare your work to the ongoing work of others, especially if you will be 
+offline for a period. 
