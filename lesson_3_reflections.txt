@@ -17,3 +17,8 @@ Branches happen within a repository - you can make experimental features, fix bu
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Lets you compare your work to the ongoing work of others, especially if you will be 
 offline for a period. 
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+You could send code back and forth or use collaborate tools like Google Docs or Dropbox but version control would be a pain.  
+For a really small project, you could probably manage it.
+Anything of any complexity would benefit from some form of version control.
